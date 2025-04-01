@@ -1,5 +1,7 @@
 # ForensicLens
 
+![ForensicLens logo](forensiclens_logo.png)
+
 **ForensicLens** is a powerful, terminal-based forensic image analysis tool designed to detect tampering, verify integrity, and extract detailed insights from digital images. Built with Python, it leverages advanced techniques like PRNU analysis, machine learning, and frequency domain analysis to assist forensic investigators, researchers, and enthusiasts.
 
 ## Features
